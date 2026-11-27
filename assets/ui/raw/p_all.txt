@@ -1,0 +1,13 @@
+Use your image generation tool (not code, not SVG) to create THREE separate images and save them as PNG files in E:/Projects/readpt/assets/ui/raw/ with exactly these names. Do not change anything else in the repository.
+
+1) icons-sheet.png
+A 4 columns x 3 rows grid (12 equal cells, generous empty space between cells, no grid lines, no labels, no text) of hand-inked UI icons drawn with a thick dry-brush black ink marker, slightly wobbly lines, rounded ends, like a screen-printed zine. Pure black ink on a pure flat white background, no grey, no shading, no colour. Same visual size and weight, centred in each cell.
+Reading order: 1 bookshelf with three leaning books, 2 open notebook with a bookmark ribbon, 3 gauge dial with a needle, 4 right-pointing solid play triangle, 5 pause (two fat bars), 6 chevron pointing left, 7 chevron pointing right, 8 loudspeaker with two sound arcs, 9 the letters 'Aa' (text size), 10 plus sign, 11 curved arrow pointing right, 12 tiny open book with a pencil.
+
+2) doodles-sheet.png
+Same style and same grid rules (4x3, pure black dry-brush ink on pure white, no text) with decorative marks for a bookish zine. Reading order: 1 hand-drawn eight-point burst star, 2 loose wavy squiggle underline, 3 rough scribbled loop circle (like a pencil circling a word), 4 curved hand-drawn arrow with a swoosh tail, 5 small four-point sparkle, 6 outline heart, 7 sun with short rays, 8 three short wavy lines, 9 cluster of five dots, 10 bookmark ribbon with a notched bottom, 11 asterisk, 12 thick hand-drawn tick check mark.
+
+3) paper-grain.png
+A seamless, tileable, extremely subtle texture of warm cream uncoated recycled paper (base colour about #f6eedd) with fine visible fibres, tiny specks and soft mottling, like risograph print stock. Square, no objects, no text, no vignette, no edge darkening, low contrast so text on top stays readable.
+
+When all three files exist, reply with their paths and nothing else.

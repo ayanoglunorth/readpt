@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "readpt",
+    "slug": "readpt",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.readpt.app"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1c1b18",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      },
+      "predictiveBackGestureEnabled": false,
+      "package": "com.readpt.app"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png",
+      "output": "single"
+    },
+    "scheme": "readpt",
+    "plugins": [
+      "expo-router",
+      "expo-sharing",
+      "expo-font",
+      ["expo-splash-screen", { "backgroundColor": "#1c1b18", "image": "./assets/splash-icon.png", "imageWidth": 220 }]
+    ]
+  }
+}

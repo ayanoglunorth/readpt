@@ -1,0 +1,4 @@
+Use your image generation tool (not code) to create ONE image and save it as E:/Projects/readpt/assets/ui/raw/icons-sheet.png.
+Content: a 4 columns x 3 rows grid (12 equal cells, generous empty space between them, no grid lines, no labels, no text) of hand-inked UI icons drawn with a thick dry-brush black ink marker, slightly wobbly lines, rounded ends, like a screen-printed zine. Pure black ink on a pure flat white background, no grey, no shading, no colour.
+Icons in reading order: 1 bookshelf with three leaning books, 2 open notebook with a bookmark ribbon, 3 gauge dial with a needle, 4 right-pointing solid play triangle, 5 pause (two fat bars), 6 chevron pointing left, 7 chevron pointing right, 8 loudspeaker with two sound arcs, 9 letter 'Aa' text-size, 10 plus sign, 11 curved arrow pointing right, 12 tiny open book with a pencil.
+All icons the same visual size and weight, centred in their cell.
